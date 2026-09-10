@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Allow git metadata and readme
+!.gitignore
+!README.md
+
+# Exclusively allow dist folder
+!dist/
+!dist/**
